@@ -1,0 +1,28 @@
+.body{
+    margin: 20px;
+    font-family: verdana;
+
+    
+}
+
+.imge{
+    width: 150px;
+}
+
+.card{
+   
+    margin: 40px;
+    width: 450px;
+    margin: 0 auto;
+    background: #ddebf8;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    color: #2b2839;
+    border-bottom: 5px solid #d8cefe;
+}
+
+
+
+
